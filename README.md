@@ -1,3 +1,6 @@
+# Depreciation
+已过时，参阅：[Android Studio 用户指南](https://developer.android.google.cn/studio/intro/)
+
 # Android Studio User Guide
 Android Studio 用户指南（我不翻译，我只是狗哥的搬运工）
 
